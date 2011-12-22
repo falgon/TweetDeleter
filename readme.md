@@ -1,6 +1,6 @@
 ﻿個人的にtwitterのツイートを削除したかったので。
 
-keys.csvにhttps://dev.twitter.com/にて取得したキーやらアクセストークンやらを
+keys.csvに https://dev.twitter.com/ にて取得したキーやらアクセストークンやらを
 以下の書式に従って書き込む。
 
 consumer key,consumer secret,access token,access secret,user name
